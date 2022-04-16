@@ -1,0 +1,18 @@
+.rune {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rune__shape {
+    fill: currentColor;
+}
+
+/* .rune__icon {
+    z-index: 1;
+} */
+path {
+    fill: black;
+}
+

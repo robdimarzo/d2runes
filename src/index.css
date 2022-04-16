@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "AvQest";
+  src: url("./assets/fonts/exocet-light.ttf");
+}
+
+:root {
+  --font-primary: "AvQest", serif;
+  --hsl-unique: 45, 42%, 65%;
+  --hsl-rune: 46, 97%, 47%;  
+}
+
+html {
+  font-size: 62.5%;
+}
+body {
+  margin: 0;
+  font-size: 1.6rem;
+  font-family: var(--font-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #282c34;
+  color: #ffffff;
+}
+
+a {
+  font-family: var(--font-primary);
+  background: transparent;
+  border: 0;
+  font-size: 1.4rem;
+  cursor: pointer;
+  color: inherit;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
