@@ -1,7 +1,5 @@
 const runewords = [
-{
-    "runeword": [
-     {
+   {
       "name": "Mist",
       "runes": [
        {
@@ -4241,6 +4239,6 @@ const runewords = [
       "item": "Weapons",
       "level": "55"
      }
-    ]
-   }
 ];
+
+export default runewords;
