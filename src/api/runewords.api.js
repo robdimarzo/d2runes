@@ -53,7 +53,7 @@ const runewords = [
           "name": "All Resistances +40"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Missile Weapons",
       "level": "67"
      },
@@ -102,7 +102,7 @@ const runewords = [
           "name": "Level 17 Attract (60 Charges)"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Helms",
       "level": "51"
      },
@@ -151,7 +151,7 @@ const runewords = [
           "name": "Level 18 Summon Spirit Wolf (30 Charges)"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Swords",
       "level": "47"
      },
@@ -197,7 +197,7 @@ const runewords = [
           "name": "Knockback"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Maces",
       "level": "35"
      },
@@ -240,7 +240,7 @@ const runewords = [
           "name": "Drain Life -5"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Melee Weapons",
       "level": "15"
      },
@@ -283,7 +283,7 @@ const runewords = [
           "name": "+3 To Light Radius"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Shields",
       "level": "37"
      },
@@ -317,7 +317,7 @@ const runewords = [
           "name": "+2 To Light Radius"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Helms",
       "level": "27"
      },
@@ -363,7 +363,7 @@ const runewords = [
           "name": "Poison Length Reduced by 50%"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Helms",
       "level": "55"
      },
@@ -421,7 +421,7 @@ const runewords = [
           "name": "+1 To Light Radius"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "4 socket Body Armor",
       "level": "59"
      },
@@ -467,7 +467,7 @@ const runewords = [
           "name": "Freezes Target +3"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Daggers",
       "level": "67"
      },
@@ -516,7 +516,7 @@ const runewords = [
           "name": "+ (1 Per Character Level) +1-99% Better Chance of Getting Magic Items (Based On Character Level)"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "65"
      },
@@ -559,7 +559,7 @@ const runewords = [
           "name": "+13 To Mana"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Wand",
       "level": "35"
      },
@@ -608,7 +608,7 @@ const runewords = [
           "name": "75% Extra Gold From Monsters"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Scepters",
       "level": "43"
      },
@@ -654,7 +654,7 @@ const runewords = [
           "name": "Level 13 Twister (127 Charges)"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Melee Weapons",
       "level": "61"
      },
@@ -721,7 +721,7 @@ const runewords = [
           "name": "30% Better Chance of Getting Magic Items"
        }   
        ],
-       "sockets": "6",
+       "sockets": 6,
       "item": "Staves",
       "level": "69"
      },
@@ -767,7 +767,7 @@ const runewords = [
           "name": "15% Damage Taken Goes to Mana"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Helms",
       "level": "45"
      },
@@ -822,7 +822,7 @@ const runewords = [
           "name": "23% Better Chance of Getting Magic Items"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Missile Weapons",
       "level": "27"
      },
@@ -871,7 +871,7 @@ const runewords = [
           "name": "All Resistances +15"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Katars",
       "level": "23"
      },
@@ -944,7 +944,7 @@ const runewords = [
           "name": "Requirements -20%"
        }   
        ],
-       "sockets": "6",
+       "sockets": 6,
       "item": "Swords",
       "level": "41"
      },
@@ -999,7 +999,7 @@ const runewords = [
           "name": "Level 17 Iron Golem (14 Charges)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Maces",
       "level": "49"
      },
@@ -1054,7 +1054,7 @@ const runewords = [
           "name": "Requirements -20%"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Scepters",
       "level": "53"
      },
@@ -1109,7 +1109,7 @@ const runewords = [
           "name": "3.125-309.375% Extra Gold From Monsters (Based on Character Level)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Missile Weapons",
       "level": "65"
      },
@@ -1161,7 +1161,7 @@ const runewords = [
           "name": "Fires Explosive Arrows or Bolts [level 15]"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Missile Weapons",
       "level": "65"
      },
@@ -1213,7 +1213,7 @@ const runewords = [
           "name": "Level 21 Cyclone Armor (30 Charges)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Spears",
       "level": "63"
      },
@@ -1253,7 +1253,7 @@ const runewords = [
           "name": "-3 To Light Radius"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Helms",
       "level": "13"
      },
@@ -1302,7 +1302,7 @@ const runewords = [
           "name": "Level 16 Clay Golem (16 Charges)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Body Armor",
       "level": "47"
      },
@@ -1360,7 +1360,7 @@ const runewords = [
           "name": "Requirements -20%"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Hammers",
       "level": "67"
      },
@@ -1421,7 +1421,7 @@ const runewords = [
           "name": "+10 To Dexterity"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Swords",
       "level": "65"
      },
@@ -1473,7 +1473,7 @@ const runewords = [
           "name": "Poison Resist +15%"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "47"
      },
@@ -1516,7 +1516,7 @@ const runewords = [
           "name": "All Resistances +30"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "41"
      },
@@ -1568,7 +1568,7 @@ const runewords = [
           "name": "25% Better Chance of Getting Magic Items"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Body Armor",
       "level": "63"
      },
@@ -1620,7 +1620,7 @@ const runewords = [
           "name": "+15-21 Fire Absorb"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "4 socket Shields",
       "level": "65"
      },
@@ -1681,7 +1681,7 @@ const runewords = [
           "name": "Requirements -20%"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Spears",
       "level": "41"
      },
@@ -1739,7 +1739,7 @@ const runewords = [
           "name": "Level 3 Heart of Wolverine (12 Charges)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Weapons",
       "level": "43"
      },
@@ -1794,7 +1794,7 @@ const runewords = [
           "name": "Level 13 Spirit of Barbs (33 Charges)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Body Armor",
       "level": "61"
      },
@@ -1849,7 +1849,7 @@ const runewords = [
           "name": "1.875-185.625% Extra Gold From Monsters (Based on Character Level)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Spears",
       "level": "67"
      },
@@ -1910,7 +1910,7 @@ const runewords = [
           "name": "Level 8 Revive (88 Charges)"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Melee Weapons",
       "level": "63"
      },
@@ -1956,7 +1956,7 @@ const runewords = [
           "name": "+15 Life After Each Demon Kill"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Katars",
       "level": "57"
      },
@@ -2014,7 +2014,7 @@ const runewords = [
           "name": "+(0.5 per character level) 0.5-49.5% Chance of Getting Magic Items (Based on Character Level)"
        }   
        ],
-       "sockets": "6",
+       "sockets": 6,
       "item": "Axes",
       "level": "65"
      },
@@ -2075,7 +2075,7 @@ const runewords = [
           "name": "+10-15 Life After Each Kill"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Swords",
       "level": "59"
      },
@@ -2115,7 +2115,7 @@ const runewords = [
           "name": "+273 Poison Damage Over 6 seconds"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Weapons",
       "level": "49"
      },
@@ -2161,7 +2161,7 @@ const runewords = [
           "name": "+5 To Light Radius"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Helms",
       "level": "27"
      },
@@ -2201,7 +2201,7 @@ const runewords = [
           "name": "15% Damage Taken Goes to Mana"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "49"
      },
@@ -2241,7 +2241,7 @@ const runewords = [
           "name": "Cold Resist +33%"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Staves",
       "level": "19"
      },
@@ -2290,7 +2290,7 @@ const runewords = [
           "name": "Reduces All Vendor Prices 15%"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Missile Weapons",
       "level": "25"
      },
@@ -2336,7 +2336,7 @@ const runewords = [
           "name": "Level 12 Slow Missiles (60 Charges)"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Shields",
       "level": "49"
      },
@@ -2376,7 +2376,7 @@ const runewords = [
           "name": "50% Extra Gold From Monsters"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "43"
      },
@@ -2416,7 +2416,7 @@ const runewords = [
           "name": "Attacker Takes Damage of 14"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "29"
      },
@@ -2474,7 +2474,7 @@ const runewords = [
           "name": "30% Better Chance of Getting Magic Items"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Weapons",
       "level": "57"
      },
@@ -2529,7 +2529,7 @@ const runewords = [
           "name": "Attacker Takes Damage of 14"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "4 socket Shields",
       "level": "25"
      },
@@ -2566,7 +2566,7 @@ const runewords = [
           "name": "25% Better Chance Of Getting Magic Items"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Shields",
       "level": "29"
      },
@@ -2618,7 +2618,7 @@ const runewords = [
           "name": "12-25% Better Chance of Getting Magic Items"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Shields",
       "level": "65"
      },
@@ -2673,7 +2673,7 @@ const runewords = [
           "name": "Level 14 Raven (60 Charges)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Staves",
       "level": "55"
      },
@@ -2710,7 +2710,7 @@ const runewords = [
           "name": "10% Damage Goes To Mana"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Shields",
       "level": "21"
      },
@@ -2750,7 +2750,7 @@ const runewords = [
           "name": "+1 To Light Radius"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Maces",
       "level": "13"
      },
@@ -2805,7 +2805,7 @@ const runewords = [
           "name": "75% Extra Gold From Monsters"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Missile Weapons",
       "level": "65"
      },
@@ -2860,7 +2860,7 @@ const runewords = [
           "name": "Repairs 1 Durability in 4 Seconds"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Paladin Shields",
       "level": "57"
      },
@@ -2900,7 +2900,7 @@ const runewords = [
           "name": "25% Faster Hit Recovery"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Body Armor",
       "level": "17"
      },
@@ -2946,7 +2946,7 @@ const runewords = [
           "name": "Knockback"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Missile Weapons",
       "level": "39"
      },
@@ -2986,7 +2986,7 @@ const runewords = [
           "name": "Fire Resist +30%"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "53"
      },
@@ -3026,7 +3026,7 @@ const runewords = [
           "name": "Requirements -15%"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "32"
      },
@@ -3066,7 +3066,7 @@ const runewords = [
           "name": "Damage Reduced By 7"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "45"
      },
@@ -3103,7 +3103,7 @@ const runewords = [
           "name": "Damage Reduced By 7"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "47"
      },
@@ -3158,7 +3158,7 @@ const runewords = [
           "name": "Cannot Be Frozen"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Missile Weapons",
       "level": "63"
      },
@@ -3216,7 +3216,7 @@ const runewords = [
           "name": "+1 To Light Radius"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Maces",
       "level": "43"
      },
@@ -3277,7 +3277,7 @@ const runewords = [
           "name": "Level 20 Revive (25 Charges)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Missile Weapons",
       "level": "39"
      },
@@ -3329,7 +3329,7 @@ const runewords = [
           "name": "Damage Reduced by 7"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "61"
      },
@@ -3393,7 +3393,7 @@ const runewords = [
           "name": "Requirements -20%"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Axes",
       "level": "55"
      },
@@ -3433,7 +3433,7 @@ const runewords = [
           "name": "Repairs Durability 1 In 4 Seconds"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Body Armor",
       "level": "49"
      },
@@ -3485,7 +3485,7 @@ const runewords = [
           "name": "40% Extra Gold From Monsters"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Axes",
       "level": "53"
      },
@@ -3540,7 +3540,7 @@ const runewords = [
           "name": "Freezes Target +3"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Weapons",
       "level": "67"
      },
@@ -3583,7 +3583,7 @@ const runewords = [
           "name": "-3 To Light Radius"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "47"
      },
@@ -3635,7 +3635,7 @@ const runewords = [
           "name": "+10 To Strength"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Hammers",
       "level": "65"
      },
@@ -3705,7 +3705,7 @@ const runewords = [
           "name": "Requirements -20%"
        }   
        ],
-       "sockets": "6",
+       "sockets": 6,
       "item": "Weapons",
       "level": "69"
      },
@@ -3766,7 +3766,7 @@ const runewords = [
           "name": "Level 13 Summon Grizzly (5 Charges)"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Hammers",
       "level": "63"
      },
@@ -3806,7 +3806,7 @@ const runewords = [
           "name": "7% Chance To Cast Level 1 Twister When Struck"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Missile Weapons",
       "level": "21"
      },
@@ -3837,7 +3837,7 @@ const runewords = [
           "name": "+10 To Dexterity"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Body Armor",
       "level": "43"
      },
@@ -3874,7 +3874,7 @@ const runewords = [
           "name": "-1 To Light Radius"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Body Armor",
       "level": "37"
      },
@@ -3929,7 +3929,7 @@ const runewords = [
           "name": "+50% Enhanced Defense"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Staves",
       "level": "37"
      },
@@ -3975,7 +3975,7 @@ const runewords = [
           "name": "7% Life Stolen Per Hit"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Scepters",
       "level": "25"
      },
@@ -4033,7 +4033,7 @@ const runewords = [
           "name": "+2 to Mana per Kill"
        }   
        ],
-       "sockets": "5",
+       "sockets": 5,
       "item": "Melee Weapons",
       "level": "27"
      },
@@ -4085,7 +4085,7 @@ const runewords = [
           "name": "Level 7 Chain Lightning (60 Charges)"
        }   
        ],
-       "sockets": "4",
+       "sockets": 4,
       "item": "Scepters",
       "level": "21"
      },
@@ -4134,7 +4134,7 @@ const runewords = [
           "name": "+5 to Frenzy (Barbarian only)"
        }   
        ],
-       "sockets": "3",
+       "sockets": 3,
       "item": "Melee Weapons",
       "level": "65"
      },
@@ -4168,7 +4168,7 @@ const runewords = [
           "name": "+10 To Vitality"
        }   
        ],
-       "sockets": "2",
+       "sockets": 2,
       "item": "Melee Weapons",
       "level": "25"
      },
@@ -4235,7 +4235,7 @@ const runewords = [
           "name": "30% Better Chance Of Getting Magic Items"
        }   
        ],
-       "sockets": "6",
+       "sockets": 6,
       "item": "Weapons",
       "level": "55"
      }

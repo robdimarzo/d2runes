@@ -1,15 +1,29 @@
-.rune {
-    position: relative;
+.runeword__card {
+    background-color: HSLA(0, 0%, 0%, .5);
+    padding: 2em;
+    font-size: 1.8rem;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.runeword__name {
+    color: HSLA(var(--hsl-unique),1);
+    font-size: 2.4rem;
+    font-weight: 400;
+    margin: 0;
+}
+
+.runeword__runes {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    font-size: 2.4rem;
 }
 
-.rune__shape {
-    fill: currentColor;
+.runeword__stats {
+    color: HSLA(var(--hsl-stat),1);
 }
-
-path {
-    fill: black;
+.runeword__sockets {
+    display: grid;
 }
-

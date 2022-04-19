@@ -1,7 +1,6 @@
 import React from 'react';
 import './RunewordCard.css';
-
-import runewords from './../../api/runewords.api';
+import Rune from '../Rune/Rune';
 
 
 function RunewordCard(props) {
@@ -11,9 +10,9 @@ function RunewordCard(props) {
     // ));
     // console.log(runewords)
     return (
-        <div>
-            <h2>{props.name}</h2>
-            <ul>
+        <article className="runeword__card">
+            <h2 className="runeword__name">{props.name}</h2>
+            <ul className="runeword__runes">
                 {props.runes.map((rune) => {
                     return(
                         <li>{rune.name}</li>
@@ -21,8 +20,29 @@ function RunewordCard(props) {
                 })
             }
             </ul>
+            <div>
+                <span>{props.sockets}</span>
+                <span> Socketed </span>
+                <span>{props.item}</span>
+            </div>
+            <ul className="runeword__stats">
+                {props.stats.map((stat) => {
+                    return(
+                        <li>{stat.name}</li>
+                    )
+                })
+            }
+            </ul>
+            <ul className={`runeword__sockets runeword__sockets--${props.sockets}`}>
+                {props.runes.map((rune) => {
+                    return(
+                        <Rune name={rune.name} size="50"/>
+                    )
+                })
+            }
+            </ul>
 
-        </div>
+        </article>
     )
 };
 

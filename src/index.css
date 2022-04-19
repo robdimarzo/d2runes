@@ -5,8 +5,9 @@
 
 :root {
   --font-primary: "AvQest", serif;
-  --hsl-unique: 45, 42%, 65%;
-  --hsl-rune: 46, 97%, 47%;  
+  --hsl-unique: 45, 42%, 65%; /* Gold */
+  --hsl-rune: 46, 97%, 47%;   /* Orange */
+  --hsl-stat: 240, 100%, 73%;   /* Blue */
 }
 
 html {

@@ -1,5 +1,7 @@
 import React from 'react';
 import { useTitle } from 'hookrouter'
+import './Runewords.css';
+
 import runewords from './../../api/runewords.api';
 
 import Page from '../../components/Page/Page';
@@ -12,14 +14,18 @@ function Runewords(props) {
     return (
         <Page title={props.rune}>
             <Rune name={props.rune} size="200"/>
-            {runewords.map(runeword => (
-                <RunewordCard 
-                    name={runeword.name} 
-                    runes={runeword.runes} 
-                    key={runeword}
-                />
-                // <Runeword name={props.rune}/>
-            ))}
+            <div className="page__cards">
+                {runewords.map(runeword => (
+                    <RunewordCard 
+                        key={runeword.name}
+                        item={runeword.item}
+                        name={runeword.name} 
+                        runes={runeword.runes} 
+                        stats={runeword.stats}
+                        sockets={runeword.sockets}
+                    />
+                ))}
+            </div>
         </Page>
     )
 }
