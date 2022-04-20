@@ -422,7 +422,7 @@ const runewords = [
        }   
        ],
        "sockets": 4,
-      "item": "4 socket Body Armor",
+      "item": "Body Armor",
       "level": "59"
      },
      {
@@ -1621,7 +1621,7 @@ const runewords = [
        }   
        ],
        "sockets": 4,
-      "item": "4 socket Shields",
+      "item": "Shields",
       "level": "65"
      },
      {
@@ -2530,7 +2530,7 @@ const runewords = [
        }   
        ],
        "sockets": 4,
-      "item": "4 socket Shields",
+      "item": "Shields",
       "level": "25"
      },
      {

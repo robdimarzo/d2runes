@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTitle } from 'hookrouter'
-import './Runewords.css';
+import './Runewords.scss';
 
 import runewords from './../../api/runewords.api';
 

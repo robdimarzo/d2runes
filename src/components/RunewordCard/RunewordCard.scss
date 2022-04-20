@@ -1,0 +1,66 @@
+.runeword__card {
+    background-color: HSLA(0, 0%, 0%, .5);
+    padding: 2em;
+    font-size: 1.8rem;
+    display: flex;
+    gap: 2em;
+    // flex-wrap: wrap;
+    &--primary {
+        flex: 1;
+    }
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.runeword__name {
+    color: HSLA(var(--hsl-unique),1);
+    font-size: 2.4rem;
+    font-weight: 400;
+    margin: 0;
+}
+
+.runeword__runes {
+    display: flex;
+    font-size: 2.4rem;
+}
+
+.runeword__stats {
+    color: HSLA(var(--hsl-stat),1);
+}
+
+.runeword__item {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.runeword__sockets {
+    display: grid;
+    grid-template-columns: repeat(2, 45px);
+    grid-template-rows: repeat(3, 45px);
+    gap: .5em;
+    align-items: center;
+    justify-items: center;
+    &--2 {
+        .rune{
+            grid-column: 1/-1;
+        }
+    }
+    &--3{
+        .rune {
+            grid-column: 1/-1;
+        }
+    }
+    &--4{
+    }
+    &--5{
+        .rune:nth-child(3) {
+            grid-column: 1/-1;
+        }
+    }
+    &--6{
+    }
+    
+}
