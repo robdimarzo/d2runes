@@ -11,7 +11,7 @@ function RunewordCard(props) {
     // console.log(runewords)
     return (
         <article className="runeword__card">
-            <div class="runeword__card--primary">
+            <div className="runeword__card--primary">
                 <h2 className="runeword__name">{props.name}</h2>
                 <ul className="runeword__runes">
                     {props.runes.map((rune) => {
@@ -28,13 +28,13 @@ function RunewordCard(props) {
                     })}
                 </ul>
             </div>
-            <div class="runeword__card--secondary">
+            <div className="runeword__card--secondary">
                 <p className="runeword__item">
                     <span className="item__sockets">{props.sockets} Socketed</span>
                     <span className="item__type">{props.item}</span>
                 </p>
 
-                <ul className={`runeword__sockets runeword__sockets--${props.sockets} runeword__sockets--${props.item}`}>
+                <ul className={`runeword__sockets runeword__sockets--${props.sockets}`}>
                     {props.runes.map((rune) => {
                         return(
                             <Rune name={rune.name} size="45"/>

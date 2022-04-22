@@ -1,0 +1,25 @@
+a {
+    display: flex;
+    // flex-direction: column;
+    align-items: center;
+    // justify-content: center;
+    gap: .5em;
+    padding: .25em;
+    border-radius: 2px;
+    text-transform: lowercase;
+    font-size: 1.8rem;
+    text-decoration: none;
+    transition: all 150ms;
+    &:hover {
+        color: HSLA(var(--hsl-rune),1);
+    }
+    &:focus-visible {
+        background-color: HSLA(var(--hsl-rune),1);
+        color: HSLA(255, 100%, 0%, 1);
+        outline: 0;
+    }
+    &.active {
+        color: HSLA(var(--hsl-rune),1);
+    }
+}
+

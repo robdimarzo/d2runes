@@ -2,7 +2,7 @@ import React from 'react';
 import { A } from 'hookrouter';
 
 import Rune from '../Rune/Rune';
-import './NavButton.css';
+import './NavButton.scss';
 
 function NavButton(props) {
     const href= '/' + props.name.toLowerCase();

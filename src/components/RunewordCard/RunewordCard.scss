@@ -29,6 +29,8 @@ ul {
 
 .runeword__stats {
     color: HSLA(var(--hsl-stat),1);
+    list-style-type: square;
+    margin-left: 1em;
 }
 
 .runeword__item {
@@ -62,5 +64,7 @@ ul {
     }
     &--6{
     }
-    
+    // &--armor {
+    //     background-image: url(./../../assets/items/armor.png);
+    // }
 }

@@ -1,5 +1,5 @@
 import React from 'react';
-import './Rune.css';
+import './Rune.scss';
 
 function Rune(props) {
     const selectRune = (props) => {
