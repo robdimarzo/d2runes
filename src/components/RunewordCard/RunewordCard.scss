@@ -29,8 +29,16 @@ ul {
 
 .runeword__stats {
     color: HSLA(var(--hsl-stat),1);
-    list-style-type: square;
-    margin-left: 1em;
+    list-style-type: none;
+    li { 
+        display: flex;
+        &::before {
+            content: "-";
+            color: HSLA(var(--hsl-stat), .5);
+            margin-right: 0.5em;
+            padding: 0;
+        }
+    }
 }
 
 .runeword__item {

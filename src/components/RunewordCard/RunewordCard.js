@@ -34,14 +34,14 @@ function RunewordCard(props) {
                     <span className="item__type">{props.item}</span>
                 </p>
 
-                <ul className={`runeword__sockets runeword__sockets--${props.sockets}`}>
+                <div className={`runeword__sockets runeword__sockets--${props.sockets}`}>
                     {props.runes.map((rune) => {
                         return(
-                            <Rune name={rune.name} size="45"/>
+                            <Rune name={rune.name} size="45" />
                         )
                     })
                 }
-                </ul>
+                </div>
             </div>
 
         </article>
